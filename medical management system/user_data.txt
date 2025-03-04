@@ -1,0 +1,1 @@
+User: Anisha, Prescription: False, Doctor: N/A, Medicine: DiabeCare, Quantity: 3, Total Price: 120, Date: 2025-03-04 17:02:30.570123
